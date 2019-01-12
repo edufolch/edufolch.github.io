@@ -588,8 +588,8 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-#scrollToTop a {
-  border-radius: 100px;
+.scrollToTop_wraper {
+  display: none;
 }
 #scrollToTop a i:before {
   content: '';
@@ -1662,7 +1662,7 @@ body {
   background: transparent !important;
 }
 .cid-reSfCUF7M3 .image_wrapper {
-  height: 700px;
+  height: 540px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -1675,7 +1675,7 @@ body {
   text-align: center;
 }
 .cid-reSfCUF7M3 .content-slider-wrap {
-  width: 69%;
+  width: 100%;
 }
 .cid-reSe6mjbXv {
   padding-top: 90px;

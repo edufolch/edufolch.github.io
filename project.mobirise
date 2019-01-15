@@ -40,7 +40,7 @@
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "google-analytics": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "http://iberobrasilindustrial.com",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
